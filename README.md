@@ -1,2 +1,1 @@
-# Gouranga
-# Gouranga
+This code is for the Ardunio board
