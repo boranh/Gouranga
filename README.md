@@ -2,7 +2,8 @@
 
 for the Final year project of electrical engneering
 sontipur polytechnic
-Sonitpur, Assam, India
+Sonitpur, Assam, India.
+
 phone- 7002812508
 
 
