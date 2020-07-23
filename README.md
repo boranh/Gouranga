@@ -26,7 +26,7 @@ component are used
 7. Ligh bulb
 8. Relay
 9. Dc Fan
-10.12V adopter
+10. 12V adopter
 
 For IOT device we are using custom flutter application. You can also use "Blynk" by changing code in "sketch_mar08g.ino".
 
