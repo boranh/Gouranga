@@ -30,5 +30,5 @@ component are used
 
 For IOT device we are using custom flutter application. You can also use "Blynk" by changing code in "sketch_mar08g.ino".
 
-Thank you.
+Thank you. do not copy
 
