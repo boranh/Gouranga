@@ -4,12 +4,12 @@ sketch_mar08g#include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
 
-char auth[] = "b1X0GvRCzgVkVFmdqapDojAXO9jVxzWP";
+char auth[] = "b1X0GvRCzgVkVFmdqapDojAX******fghD"; // From google FireBase
 // Set these to run example.
 //#define FIREBASE_HOST "getvalue-iot.firebaseio.com"
 //#define FIREBASE_AUTH "S5Gdr6ySjOkPdBGlZgnUEWOEh64wb60kbkzkOXoa"
-char ssid[] = "OnePlus7T";
-char pass[] = "12345678ct";
+char ssid[] = "${Enter Your SSID}";
+char pass[] = "${Enter Your Password}";
 
 String myString;
 char rdata; // received charactors
