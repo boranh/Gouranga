@@ -18,8 +18,7 @@ IOT Based Air Pollution Monitoring System using Arduino & NodeMCU
 ![vlcsnap-2021-09-23-11h31m48s636](https://user-images.githubusercontent.com/32132045/134461121-cd457f57-44eb-4f6f-972a-e2dbfe6e68ea.png)
 
  
-component are used
-
+component:
 1. arduino
 2. Nodemcu
 3. 16x2 display
