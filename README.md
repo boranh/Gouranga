@@ -1,5 +1,5 @@
 
-# AIR Monitoring System 
+# Air Monitoring System 
 
 for the Final year project (19/07/2020)
 Sontipur Polytechnic
