@@ -7,12 +7,8 @@ https://user-images.githubusercontent.com/32132045/134461091-390e811d-72da-4388-
 ![vlcsnap-2021-09-23-11h33m06s477](https://user-images.githubusercontent.com/32132045/134461124-abdb323d-41bc-4555-b444-71c43584262a.png)
 # Gouranga 19/07/2020
 
-for the Final year project of electrical engneering
+for the Final year project
 Sontipur Polytechnic
-Sonitpur, Assam, India.
-
-Phone- 7002812508
-
 
 "sketch_mar08f.ino"
 the code for arduino board
@@ -20,7 +16,7 @@ the code for arduino board
 "sketch_mar08g.ino"
 the code for NodeMcu board
 
- IOT Based Air Pollution Monitoring System using Arduino & NodeMCU
+IOT Based Air Pollution Monitoring System using Arduino & NodeMCU
  
 component are used
 
@@ -35,5 +31,5 @@ component are used
 9. Dc Fan
 10. 12V adopter
 
-For IOT device we are using custom flutter application. You can also use "Blynk" by changing code in "sketch_mar08g.ino".
+we are using custom "BLYNK" application.
 
